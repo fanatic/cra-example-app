@@ -8,6 +8,6 @@ on:
 
 jobs:
   build:
-    uses: fanatic/actions/create-react-app.yml@main
+    uses: fanatic/actions/.github/workflows/create-react-app.yml@main
     with:
       username: mona
